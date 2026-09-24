@@ -1,0 +1,5 @@
+{
+  "_comment": "PoE 1 uniques left out of the game. 'types' uses the friendly item type labels shown in game.",
+  "types": ["Jewel", "Abyss Jewel", "Idol", "Map", "Sanctum Relic", "Contract", "Tincture", "Map Fragment"],
+  "names": ["Ancient Skull"]
+}
